@@ -4,7 +4,8 @@
   
 
 
-
+echo "and";
+echo "sbbheheg";
 
 
 echo "playstd";
