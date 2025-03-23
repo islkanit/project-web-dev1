@@ -9,7 +9,12 @@ echo "sbbheheg";
 
 
 echo "playstd";
-
+if ($name>3){
+    echo "the amount of the sphere";
+}
+else{
+    echo "the amount of the element";
+}
 
 
 
